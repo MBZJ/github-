@@ -1,1 +1,19 @@
 # github-
+看了一眼自己star过的repo
+https://github.com/SecWiki/
+https://github.com/ysrc
+https://github.com/ring04h
+https://github.com/n0tr00t
+https://github.com/lijiejie
+https://github.com/Lucifer1993/AngelSword
+https://github.com/rootphantomer/Blasting_dictionary
+https://github.com/bit4woo/passmaker
+https://github.com/netxfly/crack_ssh
+https://github.com/neoneggplant/EggShell
+https://github.com/nullsecuritynet/tools
+https://github.com/Adastra-thw/pyHacks
+https://github.com/Ms0x0/Dayu
+https://github.com/Xyntax/1000php
+https://github.com/l3m0n/pentest_study
+https://github.com/firesunCN/BlueLotus_XSSReceiver
+https://github.com/Chora10/Cknife 
